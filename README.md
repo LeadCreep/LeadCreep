@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeadCreep
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning python
+- 👀 I’m interested in game developpement
+- 🌱 I’m currently learning C#
 - 📫 How to reach me victordelcroix59540@gmail.com
 
 <!---
