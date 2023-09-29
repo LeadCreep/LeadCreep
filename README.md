@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LeadCreep
+- 👋 Hi, I’m Victor DELCROIX
 - 👀 I’m interested in game developpement
-- 🌱 I’m currently learning C#
-- 📫 How to reach me victordelcroix59540@gmail.com
+- 🌱 I’m currently learning in Université D'artois, Lens, France
+- 📫 How to reach me victor@dvictorus.com
 
 <!---
 LeadCreep/LeadCreep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
