@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor DELCROIX
 - 👀 I’m interested in game developpement
-- 🌱 I’m currently learning in Université D'artois, Lens, France
+- Site Portfolio : https://totor.dev
 - 📫 How to reach me victordelcroix59540@gmail.com
 
 <!---
